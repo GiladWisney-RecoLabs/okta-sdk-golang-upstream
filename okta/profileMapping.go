@@ -22,7 +22,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/recolabs/okta-sdk-golang/v2/okta/query"
+	"github.com/GiladWisney-RecoLabs/okta-sdk-golang/v2/okta/query"
 )
 
 type ProfileMappingResource resource

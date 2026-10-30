@@ -27,7 +27,7 @@ import (
 	"time"
 
 	"github.com/go-jose/go-jose/v4"
-	"github.com/recolabs/okta-sdk-golang/v2/okta/cache"
+	"github.com/GiladWisney-RecoLabs/okta-sdk-golang/v2/okta/cache"
 )
 
 type config struct {

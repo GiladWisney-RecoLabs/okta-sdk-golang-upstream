@@ -38,7 +38,7 @@ import (
 	"github.com/go-jose/go-jose/v4"
 	"github.com/go-jose/go-jose/v4/jwt"
 	goCache "github.com/patrickmn/go-cache"
-	"github.com/recolabs/okta-sdk-golang/v2/okta/cache"
+	"github.com/GiladWisney-RecoLabs/okta-sdk-golang/v2/okta/cache"
 )
 
 const AccessTokenCacheKey = "OKTA_ACCESS_TOKEN"

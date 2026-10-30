@@ -1,4 +1,4 @@
-module github.com/recolabs/okta-sdk-golang/v2
+module github.com/GiladWisney-RecoLabs/okta-sdk-golang/v2
 
 go 1.24.0
 

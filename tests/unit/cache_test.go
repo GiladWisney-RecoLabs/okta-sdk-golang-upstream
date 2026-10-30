@@ -26,10 +26,10 @@ import (
 	"testing"
 
 	"github.com/jarcoal/httpmock"
-	"github.com/recolabs/okta-sdk-golang/v2/okta"
-	"github.com/recolabs/okta-sdk-golang/v2/okta/cache"
-	"github.com/recolabs/okta-sdk-golang/v2/okta/query"
-	"github.com/recolabs/okta-sdk-golang/v2/tests"
+	"github.com/GiladWisney-RecoLabs/okta-sdk-golang/v2/okta"
+	"github.com/GiladWisney-RecoLabs/okta-sdk-golang/v2/okta/cache"
+	"github.com/GiladWisney-RecoLabs/okta-sdk-golang/v2/okta/query"
+	"github.com/GiladWisney-RecoLabs/okta-sdk-golang/v2/tests"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
